@@ -31,7 +31,8 @@ It allows seamless machine-native transactions:
 ## 📅 Supported Schemes
 
 * **exact** (current): Uses EIP-3009 (`transferWithAuthorization`)
-* Future extensions: usage-based streaming with EIP-2612 + routing contract.
+* **permit** (experimental): Uses EIP-2612 (`permit`) — enables streaming / usage-based payments via routing contracts.
+* Future: Hybrid escrow-based settlement and multicall batching.
 
 ---
 
