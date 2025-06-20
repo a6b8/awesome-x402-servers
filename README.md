@@ -32,6 +32,7 @@ It allows seamless machine-native transactions:
 
 * x402: Building dynamic tools for AI agents, demos, and use-cases. [Youtube](https://www.youtube.com/watch?v=pL5LxhZ8iCY&t=1744s) 
 
+---
 
 ## 📅 Supported Schemes
 
