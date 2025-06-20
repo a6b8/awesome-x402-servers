@@ -48,7 +48,7 @@ It allows seamless machine-native transactions:
 
 * [x402 Whitepaper (May 2025)](https://x402.org)
 * [EIP-3009 Spec](https://eips.ethereum.org/EIPS/eip-3009)
-
+* [Docs](https://x402.gitbook.io/)
 ---
 
 ## 📗 Community
