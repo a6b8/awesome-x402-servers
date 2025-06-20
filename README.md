@@ -33,9 +33,11 @@ It allows seamless machine-native transactions:
 * Base Mainnet Charts [Dune Analytics](https://dune.com/programmer/x402-base-mainnet)
 
 
+
 ## Demos
 
 * x402: Building dynamic tools for AI agents, demos, and use-cases. [Youtube](https://www.youtube.com/watch?v=pL5LxhZ8iCY&t=1744s) 
+* x402: Internet Native Payments for Humans and AI Agents. [Youtube](https://www.youtube.com/watch?v=_APaEVnyNWE)
 
 ---
 
