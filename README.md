@@ -1,6 +1,6 @@
 # Awesome x402 Servers
 
-Awesome MCP Servers with x402 Payment Protocol Integration
+Awesome Servers with x402 Payment Protocol Integration
 
 > 📅 Updated for June 2025 release of x402 Whitepaper and Protocol Specs
 
