@@ -28,6 +28,11 @@ It allows seamless machine-native transactions:
 
 ---
 
+## Demos
+
+* [Youtube](https://www.youtube.com/watch?v=pL5LxhZ8iCY&t=1744s) x402: Building dynamic tools for AI agents, demos, and use-cases.
+
+
 ## 📅 Supported Schemes
 
 * **exact** (current): Uses EIP-3009 (`transferWithAuthorization`)
