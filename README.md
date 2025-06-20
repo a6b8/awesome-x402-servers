@@ -30,8 +30,8 @@ It allows seamless machine-native transactions:
 
 ## Dashboard
 
-* Base Mainnet Charts [Dune Analytics](https://dune.com/programmer/x402-base-mainnet)
-
+* Base Mainnet Charts by programmer [Dune Analytics](https://dune.com/programmer/x402-base-mainnet)
+* x402 @lifewillbeokay [Dune Analytics](https://dune.com/lifewillbeokay/x402)
 
 
 ## Demos / Talks
